@@ -1,0 +1,19 @@
+:root {
+  font-family: sans-serif;
+  --b: #021318;
+  --bd: #010d11;
+  --f: #e7f8f8;
+  --mint:#32ffaa;
+  --teal:#72fdf2;
+}
+
+body, html {
+  background-color:var(--b);
+  color:var(--f);
+
+  width:100vw;
+  height:100vh;
+
+  margin:0;
+  padding:0;
+}
